@@ -1,3 +1,3 @@
-module  github.com/Khalelalsam/funtemps
+module  funtemps
 
 go 1.19
